@@ -43,4 +43,6 @@ int main() {
         cout << '\n';
         cont++;
     } 
+
+    return 0;
 }
